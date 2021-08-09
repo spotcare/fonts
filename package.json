@@ -1,6 +1,6 @@
 {
   "name": "@spotdev/fonts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Font files and licenses for fonts separated by folders.",
   "main": "index.js",
   "author": "SpotDev <dev@spotcare.ca> (https://dev.spotcare.ca/)",
